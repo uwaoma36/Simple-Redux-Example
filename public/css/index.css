@@ -1,0 +1,14 @@
+.special-heading{
+font-weight:0;
+}
+li{
+ list-style: none;  
+}
+html{
+font-family: "sans-serif", Times, serif;
+/*font-size:100px;*/
+}
+body{
+    margin:0;
+    padding:0;
+}
